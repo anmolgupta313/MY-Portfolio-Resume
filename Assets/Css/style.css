@@ -344,6 +344,14 @@ footer{
         align-items: center
     }
 
+    .intro{
+        padding: 150px 5px 80px 5px;
+    }
+
+    .intro div img{
+        margin-top: 40px;
+    }
+
     #Contact-Me{
         padding: 60px 30px 60px 30px;
     }
